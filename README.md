@@ -3,7 +3,7 @@ Web_Scraper
 
 
 A simple project to extract questions and answers from a given database and insert them into a database after editing.
-Right now, it supports a2zinterviews.com,techinterviews.com,treeknox.com. For a demo, visit <a href="http://gowthams.in/demos/scraper">http://gowthams.in/demos/scraper</a>
+Right now, it supports a2zinterviews.com,techinterviews.com,treeknox.com.
 
 The following features are supported-
 * Extract questions and answers from a given website and display them pairwise for further editing
