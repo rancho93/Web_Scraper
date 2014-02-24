@@ -3,6 +3,7 @@ Web_Scraper
 
 
 A simple project to extract questions and answers from a given database and insert them into a database after editing.
+It uses PHP to extract the questions and MYSQL as the data store.
 Right now, it supports a2zinterviews.com,techinterviews.com,treeknox.com.
 
 The following features are supported-
